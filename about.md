@@ -1,6 +1,6 @@
 ---
-layout: Know Me!
-title: About Me
+layout: About
+title: About
 ---
 
 ## About
