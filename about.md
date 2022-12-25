@@ -24,7 +24,7 @@ Well of course I am in love with computers and coding but there is a lot more sp
 ### Do You Have Some Final Words For This Question Part?
 
 Yes! Thank you for reading my summary. I hope we will be working on things in the future.
-Take Care! and Code More!
+**Take Care! and Code More!**
  
 
 
